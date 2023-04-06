@@ -37,8 +37,9 @@
     background: linear-gradient(to right, #c5e1ef, #fff);
 }
 .card-title{
-    color: #497ce9 !important; 
+    color: #2566f2 !important; 
     font-size: 27px;
+    font-weight: bold;
     
 }
 
